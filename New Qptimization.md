@@ -1,4 +1,5 @@
 # New Optimazation For Deep Learning
+==这篇的内容最好搭配相关的论文==
 some Notations
 - $\theta_t$:在第t步的模型参数
 - $\nabla L(\theta_t)$ or $g_t$:$\theta_t$的梯度，用来计算$\theta_{t+1}$
